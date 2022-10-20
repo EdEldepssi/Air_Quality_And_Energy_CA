@@ -1,0 +1,101 @@
+,Year,Company Name,CEC Plant ID,Plant Name,State,Capacity (MW),Net MWh
+0,2021.0,Agua Caliente Solar LLC,S0242,Agua Caliente Solar (AZ),AZ,290.0,707643.0
+1,2021.0,LS Power,S0292,Arlington Valley Solar Energy II,AZ,129.0,353291.0
+2,2021.0,Copper Mountain Solar,S0243,Copper Mountain I (NV),NV,58.0,115417.0
+3,2021.0,Copper Mountain Solar,S0244,Copper Mountain II (NV),NV,155.0,359174.0
+4,2021.0,Copper Mountain Solar,S0295,Copper Mountain III (NV),NV,255.0,607133.0
+5,2021.0,Copper Mountain Solar,S0540,Copper Mountain Solar 4 (NV),NV,93.6,246999.0
+6,2021.0,Mesquite Solar 1 LLC,S0254,Mesquite Solar 1 (AZ),AZ,165.0,405068.0
+7,2021.0,Mesquite Solar 1 LLC,S0561,Mesquite Solar 2 (AZ),AZ,100.8,256131.0
+8,2021.0,Mesquite Solar 1 LLC,S0562,Mesquite Solar 3 (AZ),AZ,152.0,432472.0
+9,2021.0,"Silver State Solar Power South, LLC",S0436,Silver State Power South (NV),NV,250.0,671951.0
+10,,,,,,Total,1648.4
+11,2020.0,Agua Caliente Solar LLC,S0242,Agua Caliente Solar (AZ),AZ,290.0,725116.0
+12,2020.0,LS Power,S0292,Arlington Valley Solar Energy II,AZ,129.0,361722.0
+13,2020.0,Copper Mountain Solar,S0243,Copper Mountain I (NV),NV,58.0,119909.0
+14,2020.0,Copper Mountain Solar,S0244,Copper Mountain II (NV),NV,155.0,371604.0
+15,2020.0,Copper Mountain Solar,S0295,Copper Mountain III (NV),NV,255.0,628526.0
+16,2020.0,Copper Mountain Solar,S0540,Copper Mountain Solar 4 (NV),NV,93.6,249275.0
+17,2020.0,Mesquite Solar 1 LLC,S0254,Mesquite Solar 1 (AZ),AZ,165.0,415376.0
+18,2020.0,Mesquite Solar 1 LLC,S0561,Mesquite Solar 2 (AZ),AZ,100.8,263679.0
+19,2020.0,Mesquite Solar 1 LLC,S0562,Mesquite Solar 3 (AZ),AZ,152.0,455380.0
+20,2020.0,"Silver State Solar Power South, LLC",S0436,Silver State Power South (NV),NV,250.0,679951.0
+21,,,,,,Total,1648.4
+22,2019.0,Agua Caliente Solar LLC,S0242,Agua Caliente Solar (AZ),AZ,290.0,717163.0
+23,2019.0,LS Power,S0292,Arlington Valley Solar Energy II,AZ,129.0,348390.0
+24,2019.0,Copper Mountain Solar,S0243,Copper Mountain I (NV),NV,58.0,117141.0
+25,2019.0,Copper Mountain Solar,S0244,Copper Mountain II (NV),NV,155.0,358160.0
+26,2019.0,Copper Mountain Solar,S0295,Copper Mountain III (NV),NV,255.0,592149.0
+27,2019.0,Copper Mountain Solar,S0540,Copper Mountain Solar 4 (NV),NV,93.6,265982.0
+28,2019.0,Mesquite Solar 1 LLC,S0254,Mesquite Solar 1 (AZ),AZ,165.0,412784.0
+29,2019.0,Mesquite Solar 1 LLC,S0561,Mesquite Solar 2 (AZ),AZ,100.8,256048.0
+30,2019.0,Mesquite Solar 1 LLC,S0562,Mesquite Solar 3 (AZ),AZ,152.0,445637.0
+31,2019.0,"Silver State Solar Power South, LLC",S0436,Silver State Power South (NV),NV,250.0,698837.0
+32,,,,,,Total,1648.4
+33,2018.0,Agua Caliente Solar LLC,S0242,Agua Caliente Solar (AZ),AZ,290.0,727327.0
+34,2018.0,LS Power,S0292,Arlington Valley Solar Energy II,AZ,129.0,335124.0
+35,2018.0,Copper Mountain Solar,S0243,Copper Mountain I (NV),NV,58.0,119800.0
+36,2018.0,Copper Mountain Solar,S0244,Copper Mountain II (NV),NV,155.0,367474.0
+37,2018.0,Copper Mountain Solar,S0295,Copper Mountain III (NV),NV,255.0,613866.0
+38,2018.0,Copper Mountain Solar,S0540,Copper Mountain Solar 4 (NV),NV,93.6,263829.0
+39,2018.0,Mesquite Solar 1 LLC,S0254,Mesquite Solar 1 (AZ),AZ,165.0,415004.0
+40,2018.0,Mesquite Solar 1 LLC,S0561,Mesquite Solar 2 (AZ),AZ,100.8,285020.0
+41,2018.0,Mesquite Solar 1 LLC,S0562,Mesquite Solar 3 (AZ),AZ,152.0,445786.0
+42,2018.0,"Silver State Solar Power South, LLC",S0436,Silver State Power South (NV),NV,250.0,726564.0
+43,,,,,,Total,1648.4
+44,2017.0,Agua Caliente Solar LLC,S0242,Agua Caliente Solar (AZ),AZ,290.0,709929.0
+45,2017.0,LS Power,S0292,Arlington Valley Solar Energy II,AZ,129.0,357987.0
+46,2017.0,Copper Mountain Solar,S0243,Copper Mountain I (NV),NV,58.0,120525.0
+47,2017.0,Copper Mountain Solar,S0244,Copper Mountain II (NV),NV,155.0,366361.0
+48,2017.0,Copper Mountain Solar,S0295,Copper Mountain III (NV),NV,255.0,607761.0
+49,2017.0,Copper Mountain Solar,S0540,Copper Mountain Solar 4 (NV),NV,93.6,249015.0
+50,2017.0,Mesquite Solar 1 LLC,S0254,Mesquite Solar 1 (AZ),AZ,165.0,413729.0
+51,2017.0,Mesquite Solar 1 LLC,S0561,Mesquite Solar 2 (AZ),AZ,100.8,290908.0
+52,2017.0,Mesquite Solar 1 LLC,S0562,Mesquite Solar 3 (AZ),AZ,152.0,440627.0
+53,2017.0,"Silver State Solar Power South, LLC",S0436,Silver State Power South (NV),NV,250.0,711159.0
+54,,,,,,Total,1648.4
+55,2016.0,Agua Caliente Solar LLC,S0242,Agua Caliente Solar (AZ),AZ,290.0,743533.0
+56,2016.0,LS Power,S0292,Arlington Valley Solar Energy II,AZ,129.0,364396.0
+57,2016.0,Copper Mountain Solar,S0243,Copper Mountain I (NV),NV,58.0,117353.0
+58,2016.0,Copper Mountain Solar,S0244,Copper Mountain II (NV),NV,155.0,356633.0
+59,2016.0,Copper Mountain Solar,S0295,Copper Mountain III (NV),NV,255.0,605855.0
+60,2016.0,Copper Mountain Solar,S0540,Copper Mountain Solar 4 (NV),NV,93.6,38076.0
+61,2016.0,Mesquite Solar 1 LLC,S0254,Mesquite Solar 1 (AZ),AZ,165.0,408247.0
+62,2016.0,Mesquite Solar 1 LLC,S0561,Mesquite Solar 2 (AZ),AZ,100.8,21432.0
+63,2016.0,Mesquite Solar 1 LLC,S0562,Mesquite Solar 3 (AZ),AZ,152.0,76162.0
+64,2016.0,"Silver State Solar Power South, LLC",S0436,Silver State Power South (NV),NV,250.0,565480.0
+65,,,,,,Total,1648.4
+66,2015.0,Agua Caliente Solar LLC,S0242,Agua Caliente Solar (AZ),AZ,290.0,739734.0
+67,2015.0,LS Power,S0292,Arlington Valley Solar Energy II,AZ,129.0,356963.0
+68,2015.0,Copper Mountain Solar,S0243,Copper Mountain I (NV),NV,58.0,121811.0
+69,2015.0,Copper Mountain Solar,S0244,Copper Mountain II (NV),NV,155.0,354249.0
+70,2015.0,Copper Mountain Solar,S0295,Copper Mountain III (NV),NV,255.0,602431.0
+71,2015.0,Mesquite Solar 1 LLC,S0254,Mesquite Solar 1 (AZ),AZ,150.0,397598.0
+72,2015.0,"Silver State Solar Power South, LLC",S0436,Silver State Power South (NV),NV,91.4,9597.0
+73,,,,,,Total,1128.4
+74,2014.0,Agua Caliente Solar LLC,S0242,Agua Caliente Solar (AZ),AZ,290.0,741394.0
+75,2014.0,LS Power,S0292,Arlington Valley Solar Energy II,AZ,129.0,363124.0
+76,2014.0,Copper Mountain Solar,S0243,Copper Mountain I (NV),NV,58.0,123199.0
+77,2014.0,Copper Mountain Solar,S0244,Copper Mountain II (NV),NV,94.5,223166.0
+78,2014.0,Copper Mountain Solar,S0295,Copper Mountain III (NV),NV,255.0,149637.0
+79,2014.0,Mesquite Solar 1 LLC,S0254,Mesquite Solar 1 (AZ),AZ,150.0,408218.0
+80,,,,,,Total,976.5
+81,2013.0,Agua Caliente Solar LLC,S0242,Agua Caliente Solar (AZ),AZ,243.0,687092.0
+82,2013.0,Copper Mountain Solar,S0243,Copper Mountain I (NV),NV,58.0,125620.0
+83,2013.0,Copper Mountain Solar,S0244,Copper Mountain II (NV),NV,94.5,226935.0
+84,,,,,,Total,395.5
+85,2012.0,Agua Caliente Solar LLC,S0242,Agua Caliente Solar (AZ),AZ,243.0,378105.0
+86,2012.0,Copper Mountain Solar,S0243,Copper Mountain I (NV),NV,58.0,65958.0
+87,2012.0,Copper Mountain Solar,S0244,Copper Mountain II (NV),NV,94.5,73593.0
+88,,,,,,Total,395.5
+89,,,,,,Total,0.0
+90,,,,,,Total,0.0
+91,,,,,,Total,0.0
+92,,,,,,Total,0.0
+93,,,,,,Total,0.0
+94,,,,,,Total,0.0
+95,,,,,,Total,0.0
+96,,,,,,Total,0.0
+97,,,,,,Total,0.0
+98,,,,,,Total,0.0
+99,,,,,,Total,0.0
